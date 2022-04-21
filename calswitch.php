@@ -7,6 +7,7 @@
     <title>calculator using php</title>
     <a href="conversion.php"></a>
     <a href="area.php"></a>
+    <a href="uploadimg.php"></a>
     
 
     <style>
